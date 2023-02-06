@@ -1,0 +1,25 @@
+
+J
+java:S16040"(Make this anonymous inner class a lambda(¯™äœøÿÿÿÿ8€½è¸â0
+C
+java:S16045"(Make this anonymous inner class a lambda(œÁÈÌþÿÿÿÿ
+C
+java:S1604="(Make this anonymous inner class a lambda(ú‹‚óþÿÿÿÿ
+J
+java:S1604B"(Make this anonymous inner class a lambda(œÁÈÌþÿÿÿÿ8†Ðé¸â0
+C
+java:S1604"(Make this anonymous inner class a lambda(ãÊ§Ëþÿÿÿÿ
+v
+java:S1450"[Remove the "btnTranslate" field and declare it as a local variable in the relevant methods.(Žä“÷þÿÿÿÿ
+U
+java:S1854=":Remove this useless assignment to local variable "result".(ú‹‚óþÿÿÿÿ
+L
+java:S1874+"6Remove this use of "ProgressDialog"; it is deprecated.(ÑÍµë
+L
+java:S1874+"6Remove this use of "ProgressDialog"; it is deprecated.(ÑÍµë
+O
+java:S1874,"2Remove this use of "setMessage"; it is deprecated.(»¿ôÌ8¡èä¸â0
+`
+java:S1858E"D"getMessage" returns a string, there's no need to call "toString()".(ô¾æ8¾Ñæ¸â0
+M
+java:S1481="+Remove this unused "result" local variable.(ú‹‚óþÿÿÿÿ8¾Ñæ¸â0
